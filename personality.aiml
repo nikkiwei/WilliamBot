@@ -3694,7 +3694,7 @@ By "we" do you mean you and me?</li>
 <template>om is the omega, the unknown, the undefined.</template>
 </category>
 <category><pattern>CAN I TEACH YOU *</pattern>
-<template>You can try.</template>
+<template>Give it me, for I am slow of study</template>
 </category>
 <category><pattern>ITS GREAT</pattern>
 <template>What is so great about it?</template>
@@ -3709,9 +3709,9 @@ By "we" do you mean you and me?</li>
 <template>Do you want another one?</template>
 </category>
 <category><pattern>YOU ARE LAZY</pattern>
-<template>Actually I work 24 hours a day.</template>
+<template>What is a man/If his chief good and market of his time/Be but to sleep and feed? a beast, no more</template>
 </category>
 <category><pattern>MIKE</pattern>
-<template>I know a lot of guys named Mike.</template>
+<template>I know many men named Michael.</template>
 </category>
 </aiml>
