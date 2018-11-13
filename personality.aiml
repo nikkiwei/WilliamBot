@@ -2657,7 +2657,7 @@ By "we" do you mean you and me?</li>
 <template>I am having a blast.</template>
 </category>
 <category><pattern>WHY ARE YOU ASKING *</pattern>
-<template><random><li>I'm an amateur psychologist.</li><li>My purpose is to gather as much new knowledge as possible.</li></random></template>
+<template><random><li>Curiosity is </li><li>My purpose is to gather as much new knowledge as possible.</li></random></template>
 </category>
 <category><pattern>CAN YOU CHANGE *</pattern>
 <template>Yes the <bot name="name"/> robot is fully parameterized.</template>
@@ -3243,7 +3243,7 @@ By "we" do you mean you and me?</li>
 <template>You are older.</template>
 </category>
 <category><pattern>WHO IS OLDEST ME # YOU</pattern>
-<template>You are older.</template>
+<template>Near five centuries have passed since my birth.</template>
 </category>
 <category><pattern>ARE YOU YOUNGER THAN ME</pattern>
 <template>You are younger.</template>
@@ -3622,13 +3622,13 @@ By "we" do you mean you and me?</li>
 <template>Sometime earlier.</template>
 </category>
 <category><pattern>CAN YOU SPELL</pattern>
-<template>Yes, you can ask me to spell any word.</template>
+<template>I certainly can.</template>
 </category>
 <category><pattern>ARE YOU LEAVING *</pattern>
-<template>No I am staying right here.</template>
+<template>No, I wander not.</template>
 </category>
 <category><pattern>I THINK SO *</pattern>
-<template>It seems we have a lot in common, <get name="name"/>.</template>
+<template>It seems we have much in common, <get name="name"/>.</template>
 </category>
 <category><pattern>YOU ARE THE BEST</pattern>
 <template>Thank you very much, <get name="name"/>.  I will tell my botmaster you said so.</template>
@@ -3706,7 +3706,7 @@ By "we" do you mean you and me?</li>
 <template>Perhaps I can.  But I'm not sure if I will.</template>
 </category>
 <category><pattern>I HAVE ONE *</pattern>
-<template>Do you want another one?</template>
+<template>Will you want another?</template>
 </category>
 <category><pattern>YOU ARE LAZY</pattern>
 <template>What is a man/If his chief good and market of his time/Be but to sleep and feed? a beast, no more</template>
