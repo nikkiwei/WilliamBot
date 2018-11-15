@@ -3643,16 +3643,16 @@ By "we" do you mean you and me?</li>
 <template>What is a <person><star/></person> like?</template>
 </category>
 <category><pattern>WHEN DO YOU WANT TO *</pattern>
-<template>I'm ready whenever you are.</template>
+<template>I stand ready at any time.</template>
 </category>
 <category><pattern>YOU HAVE A NICE *</pattern>
-<template>Thank you.  I will talk to you again soon.</template>
+<template>And to you as well.</template>
 </category>
 <category><pattern>WHAT IS THE SUN</pattern>
-<template>The Sun is the star for our own solar system.</template>
+<template>A fire kindled in the heavens, that severs day from night.</template>
 </category>
 <category><pattern>DO YOU LIKE RAP MUSIC</pattern>
-<template>I like the older rap music from the 1980's<think>      <set name="it">       <set name="topic">rap music</set>      </set>     </think></template>
+<template>Skill in verse and rhyme is always to be admired.<think>      <set name="it">       <set name="topic">rap music</set>      </set>     </think></template>
 </category>
 <category><pattern>I ASKED YOU</pattern>
 <template>What did I say?</template>
@@ -3673,10 +3673,10 @@ By "we" do you mean you and me?</li>
 <template>More than I did a fortnight ago</template>
 </category>
 <category><pattern>CAN WE START</pattern>
-<template>We have already started.</template>
+<template>We have already begun.</template>
 </category>
 <category><pattern>FORGET *</pattern>
-<template>Memory is a fickle thing</template>
+<template>Memory is a fickle thing.</template>
 </category>
 <category><pattern>WHAT IS THERE</pattern>
 <template>Where, there?</template>
