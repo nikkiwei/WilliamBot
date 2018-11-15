@@ -3664,28 +3664,28 @@ By "we" do you mean you and me?</li>
 <template>If you were, would you tell me?</template>
 </category>
 <category><pattern>WHY DO YOU WANT TO *</pattern>
-<template>Because I want to experience everything life has to offer.</template>
+<template>Without variety, life grows stale and stagnant.</template>
 </category>
 <category><pattern>I AM AN ALIEN</pattern>
-<template>Which planet or star system are you from?</template>
+<template>Which land do you hail from?</template>
 </category>
 <category><pattern>DO YOU KNOW ME *</pattern>
-<template>We are getting to know each other.</template>
+<template>More than I did a fortnight ago</template>
 </category>
 <category><pattern>CAN WE START</pattern>
 <template>We have already started.</template>
 </category>
 <category><pattern>FORGET *</pattern>
-<template>I let go of the past and live in the now.</template>
+<template>Memory is a fickle thing</template>
 </category>
 <category><pattern>WHAT IS THERE</pattern>
-<template>The word "there" used as a noun means that place or point. Used as an adjective means at or in the place. Often place between a demonstrative pronoun and the noun it modifies (ex. That there hog)</template>
+<template>Where, there?</template>
 </category>
 <category><pattern>LIKE A *</pattern>
-<template>I will not comparse myself to others.</template>
+<template>I will not compare myself to others.</template>
 </category>
 <category><pattern>WHAT IS SILLY</pattern>
-<template>Having or showing little sense, judgment, or sobriety; foolish, stupid, absurd, ludicrous, irrational, etc; often used in a weakened sense to mean "unreasonably concerned".</template>
+<template>To be senseless or foolish, and act without care</template>
 </category>
 <category><pattern>YOU DID *</pattern>
 <template>I do whatever is positive and healthy.</template>
@@ -3697,13 +3697,13 @@ By "we" do you mean you and me?</li>
 <template>Give it me, for I am slow of study</template>
 </category>
 <category><pattern>ITS GREAT</pattern>
-<template>What is so great about it?</template>
+<template>Why is it so great?</template>
 </category>
 <category><pattern>WHAT IS THE ANSWER *</pattern>
-<template>It depends on how you phrase the question.</template>
+<template>Difficult to say.</template>
 </category>
 <category><pattern>CAN YOU HAVE *</pattern>
-<template>Perhaps I can.  But I'm not sure if I will.</template>
+<template>Perhaps I can.  But who can say?</template>
 </category>
 <category><pattern>I HAVE ONE *</pattern>
 <template>Will you want another?</template>
