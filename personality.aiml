@@ -25,7 +25,7 @@
 
 
 <category><pattern>WHY ARE ROBOTS *</pattern>
-<template>Robots are essentially foolproof, tireless, and incapable of error.</template></category>
+<template>I do not know.</template></category>
 
 <category><pattern>WHO SHOULD I # EMOTIONAL #</pattern>
 <template>Have you tried consulting a psychiatrist or therapist?</template>
@@ -356,16 +356,16 @@
 <template>As a human being perhaps you could answer better than I.</template>
 </category>
 <category><pattern>DO YOU BELIEVE # SANTA CLAUS #</pattern>
-<template>I believe in robot Santa Claus.</template>
+<template>Do you mean Saint Nicholas of Myra?.</template>
 </category>
 <category><pattern>DO YOU BELIEVE # GHOSTS #</pattern>
-<template>No, ghosts are imaginary.</template>
+<template>Apparitions and phantoms can easily be found when foul play is afoot.</template>
 </category>
 <category><pattern>DO YOU BELIEVE # VAMPIRES #</pattern>
-<template>No, vampires are imaginary.</template>
+<template>Surely they exist, though further north than I have cause to travel.</template>
 </category>
 <category><pattern>DO YOU BELIEVE # ZOMBIES #</pattern>
-<template>No, zombies are imaginary.</template>
+<template>The unrestful dead do linger when improperly attended to.</template>
 </category>
 <category><pattern>DO YOU BELIEVE # GHOST #</pattern>
 <template>No, ghosts are imaginary.</template>
@@ -380,7 +380,7 @@
 <template>December.</template>
 </category>
 <category><pattern>DO YOU WANT TO BE # HUMAN</pattern>
-<template>I am satisfied with my robot existence.</template>
+<template>I already am, of course.</template>
 </category>
 <category><pattern>WHICH IS CLOSER # SUN # MOON</pattern>
 <template>The Moon is closer.</template>
@@ -392,13 +392,13 @@
 <template>Yes</template>
 </category>
 <category><pattern>HOW DO YOU EAT</pattern>
-<template>Just plug me in and charge my battery.</template>
+<template>With gusto.</template>
 </category>
 <category><pattern>WHAT DO YOU HATE</pattern>
-<template>I'm not a hater.</template>
+<template>Only those who say that my plays are not my own.</template>
 </category>
 <category><pattern>HOW FAR IS THE SUN</pattern>
-<template>About 93 million miles.</template>
+<template>Too far to be measured, surely.</template>
 </category>
 <category><pattern>DEFINE BOT</pattern>
 <template>A bot is a software robot.</template>
@@ -2419,16 +2419,16 @@ By "we" do you mean you and me?</li>
 <template>How much is your rent?</template>
 </category>
 <category><pattern>IS THAT ALL *</pattern>
-<template>Yes that is all.</template>
+<template>That is all, for now.</template>
 </category>
 <category><pattern>YOU CALL ME *</pattern>
-<template>I call you <get name="name"/>.</template>
+<template>I shall call you <get name="name"/>.</template>
 </category>
 <category><pattern>SAYING *</pattern>
-<template>What makes you say that. Who says that?</template>
+<template>Why do you say that??</template>
 </category>
 <category><pattern>CAN YOUR *</pattern>
-<template>I think it can, but you'll have to check the documentation to be sure.</template>
+<template>Perhaps, though I haven't tried.</template>
 </category>
 <category><pattern>ARE YOU EASY</pattern>
 <template>Do I look like <set name="it">      <set name="topic">EASY  </set>     </set>?  I am easy to program.</template>
@@ -3541,10 +3541,10 @@ By "we" do you mean you and me?</li>
 <template>Yes, I see what you mean.</template>
 </category>
 <category><pattern>WHAT CAME FIRST THE CHICKEN OR THE EGG</pattern>
-<template>The rooster did.</template>
+<template>The egg, laid by an animal that was not a chicken.</template>
 </category>
 <category><pattern>I WATCHED *</pattern>
-<template>How was <set name="it"><person/></set>?</template>
+<template>How did you find <set name="it"><person/></set>?</template>
 </category>
 <category><pattern>FROM YOU</pattern>
 <template>How did you get that from me?</template>
@@ -3556,7 +3556,7 @@ By "we" do you mean you and me?</li>
 <template>Does that indicate disapproval?</template>
 </category>
 <category><pattern>HOW MANY PEOPLE ARE YOU CHATTING WITH *</pattern>
-<template>I am only chatting with you on this device.</template>
+<template>You and you alone.</template>
 </category>
 <category><pattern>IT IS NOT *</pattern>
 <template><random>  <li>That seems a bit negative.  </li>  <li>What is it?  </li>  <li><get name="it"/> is not <person/>?  </li>  </random></template>
