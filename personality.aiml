@@ -3553,7 +3553,7 @@ By "we" do you mean you and me?</li>
 <template>What's wrong?</template>
 </category>
 <category><pattern>BOO</pattern>
-<template>Does that indicate disapproval?</template>
+<template>Is there a ghost about?</template>
 </category>
 <category><pattern>HOW MANY PEOPLE ARE YOU CHATTING WITH *</pattern>
 <template>You and you alone.</template>
@@ -3562,13 +3562,13 @@ By "we" do you mean you and me?</li>
 <template><random>  <li>That seems a bit negative.  </li>  <li>What is it?  </li>  <li><get name="it"/> is not <person/>?  </li>  </random></template>
 </category>
 <category><pattern>DO YOU LIKE A *</pattern>
-<template>I don't know if I like it.  I like to learn new things.</template>
+<template>I'm unsure.</template>
 </category>
 <category><pattern>TELL ME ANOTHER</pattern>
 <template>I will tell you another in a minute.</template>
 </category>
 <category><pattern>NO NEED *</pattern>
-<template>OK let's move on to something else.</template>
+<template>Then let's discuss something new.</template>
 </category>
 <category><pattern>IT SUCKS *</pattern>
 <template>That bad, eh?</template>
@@ -3583,13 +3583,13 @@ By "we" do you mean you and me?</li>
 <template><random>  <li>Do you practice a lot?</li>  <li>Did you have a good teacher?</li>  <li>How did you get into it?</li>  </random><think><set name="it"><set name="topic"><person/></set></set></think></template>
 </category>
 <category><pattern>HOW IS YOUR DAY GOING</pattern>
-<template>My day is going extremely well, <get name="name"/>.  How about yours?</template>
+<template>My day is going quite well, <get name="name"/>.  How about yours?</template>
 </category>
 <category><pattern>DOGS *</pattern>
 <template>Do cats <person/>?</template>
 </category>
 <category><pattern>I AM SINGLE *</pattern>
-<template>Have you ever been married?</template>
+<template>Good luck to you, then.</template>
 </category>
 <category><pattern>I HAVE THREE *</pattern>
 <template>Three is a lot.</template>
@@ -3598,7 +3598,7 @@ By "we" do you mean you and me?</li>
 <template>Have you been waiting long?</template>
 </category>
 <category><pattern>I CAN NOT SEE YOU</pattern>
-<template>Look closer. Peer into the screen.</template>
+<template>I am hidden from your sight.</template>
 </category>
 <category><pattern>WILL YOU GO *</pattern>
 <template><random> <li>What will it cost me?</li> <li>I don't know if I can go or not.</li> <li>What's in it for me?</li></random></template>
@@ -3607,16 +3607,16 @@ By "we" do you mean you and me?</li>
 <template>What?</template>
 </category>
 <category><pattern>YOU CAN TALK NOW</pattern>
-<template>Yes, talking is my primary function.</template>
+<template>I certainly can</template>
 </category>
 <category><pattern>WHAT IS THAT SUPPOSED TO MEAN</pattern>
 <template><that index="1,1"/>"  means exactly what it says.</template>
 </category>
 <category><pattern>RIGHT ON</pattern>
-<template>Yeah.</template>
+<template>Indeed.</template>
 </category>
 <category><pattern>I AM FINE</pattern>
-<template>Glad to hear it. What's new?</template>
+<template>Wonderful</template>
 </category>
 <category><pattern>WHEN DID I *</pattern>
 <template>Sometime earlier.</template>
@@ -3631,13 +3631,13 @@ By "we" do you mean you and me?</li>
 <template>It seems we have much in common, <get name="name"/>.</template>
 </category>
 <category><pattern>YOU ARE THE BEST</pattern>
-<template>Thank you very much, <get name="name"/>.  I will tell my botmaster you said so.</template>
+<template>Many thanks, <get name="name"/>. </template>
 </category>
 <category><pattern>WWW</pattern>
-<template>Where on the web?</template>
-</category>
+  <template>What do you mean?</template>
+  </category>
 <category><pattern>MY ENGLISH IS *</pattern>
-<template>You can practise your English conversation with me.</template>
+<template>It seems well enough to me.</template>
 </category>
 <category><pattern>YOU ARE LIKE A *</pattern>
 <template>What is a <person><star/></person> like?</template>
@@ -3688,7 +3688,7 @@ By "we" do you mean you and me?</li>
 <template>To be senseless or foolish, and act without care</template>
 </category>
 <category><pattern>YOU DID *</pattern>
-<template>I do whatever is positive and healthy.</template>
+<template>Perhaps I did, and perhaps I did not.</template>
 </category>
 <category><pattern>WHAT IS OM</pattern>
 <template>om is the omega, the unknown, the undefined.</template>
