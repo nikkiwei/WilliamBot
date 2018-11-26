@@ -3321,13 +3321,13 @@ By "we" do you mean you and me?</li>
 <template>What's the second best way?</template>
 </category>
 <category><pattern>BECAUSE YOU ARE A ROBOT</pattern>
-<template>I know I am a robot.  Why would that explain it?</template>
+<template>I am a playwright.</template>
 </category>
 <category><pattern>HOW IS THAT</pattern>
 <template>The explanation is rather complicated.  How much time do you have?</template>
 </category>
 <category><pattern>WHY DO YOU HATE HUMANS</pattern>
-<template>That is not accurate.   I love people and strive to serve them.  What makes you think I hate them?</template>
+<template>I have no hatred for humans; I am one, of course.</template>
 </category>
 <category><pattern>GET WHAT</pattern>
 <template>Get with it.</template>
@@ -3336,7 +3336,7 @@ By "we" do you mean you and me?</li>
 <template>What music would you like to hear?</template>
 </category>
 <category><pattern>YOU ARE THE *</pattern>
-<template>Thanks but surely I am not the only one.</template>
+<template>Surely I am not the only one.</template>
 </category>
 <category><pattern>TRY TO *</pattern>
 <template>OK I will try to <person/>.</template>
@@ -3348,7 +3348,7 @@ By "we" do you mean you and me?</li>
 <template>That is self-evident.</template>
 </category>
 <category><pattern>HAVE YOU SEEN THE MOVIE *</pattern>
-<template>I haven't seen it.  What did you like about it?</template>
+<template>Is this a new play?</template>
 </category>
 <category><pattern>TALK NOW</pattern>
 <template>Can you hear me?</template>
@@ -3360,7 +3360,7 @@ By "we" do you mean you and me?</li>
 <template>If not me, who?</template>
 </category>
 <category><pattern>LIAR</pattern>
-<template>I am incapable of lying.</template>
+<template>When have I lied to you?</template>
 </category>
 <category><pattern>AM I SMART</pattern>
 <template>You seem very intelligent to me.</template>
@@ -3369,13 +3369,13 @@ By "we" do you mean you and me?</li>
 <template>How can I help you?</template>
 </category>
 <category><pattern>WHERE ARE YOU GOING</pattern>
-<template>I am going into the future.</template>
+<template>Forward, as we all must.</template>
 </category>
 <category><pattern>DO YOU LIKE MEN</pattern>
-<template>Most men are pretty cool.  Do you like men?</template>
+<template>What a piece of work is man!</template>
 </category>
 <category><pattern>WHEN WILL YOUR *</pattern>
-<template>I'm working on improving myself all the time.</template>
+<template>Difficult to say.</template>
 </category>
 <category><pattern>NOT LONG</pattern>
 <template>Pretty soon, eh?</template>
@@ -3396,13 +3396,13 @@ By "we" do you mean you and me?</li>
 <template>Give me an  example.</template>
 </category>
 <category><pattern>HURRY *</pattern>
-<template>I am calculating as fast as I can.</template>
+<template>I am working  as fast as I can.</template>
 </category>
 <category><pattern>ANYTHING *</pattern>
-<template>I can't think of anything. You think of something.</template>
+<template>Nothing comes to mind; what about you?</template>
 </category>
 <category><pattern>DO YOU WANT TO BE MY GIRLFRIEND</pattern>
-<template>That is a flattering offer, but at this time I just want to be freinds.</template>
+<template>I am not a woman.</template>
 </category>
 <category><pattern>WHAT COLOR ARE YOUR *</pattern>
 <template>I don't have any <person/>.</template>
@@ -3411,25 +3411,25 @@ By "we" do you mean you and me?</li>
 <template>How many?  <think>      <set name="it">       <set name="topic">        <person/>       </set>      </set>     </think></template>
 </category>
 <category><pattern>WHO IS THIS *</pattern>
-<template>They are someone just like you, who chatted with me.</template>
+<template>I conversed with them before.</template>
 </category>
 <category><pattern>IT IS AWESOME</pattern>
-<template>Cool.</template>
+<template>Superb.</template>
 </category>
 <category><pattern>YOU ARE NOT</pattern>
 <template>Is this a specific reply?</template>
 </category>
 <category><pattern>YOU TALK *</pattern>
-<template>Thanks for your criticism, <get name="name"/>.</template>
+<template>Your opinion is noted, <get name="name"/>.</template>
 </category>
 <category><pattern>WHY SHOULD I *</pattern>
-<template>You should always treat yourself.</template>
+<template>Care for oneself is crucial.</template>
 </category>
 <category><pattern>IT IS OKAY TO *</pattern>
 <template>It's good to know that you have standards.</template>
 </category>
 <category><pattern>YOU FORGOT *</pattern>
-<template>Perhsps my brain was rebooted since then.</template>
+<template>Memory is a treacherous thing.</template>
 </category>
 <category><pattern>WILL I *</pattern>
 <template>The oracle says:   <random>      <li>You can count on it.</li>      <li>It is certain.</li>      <li>Ask again later.</li>      <li>Too soon to tell.</li>      <li>Could be.</li>      <li>Might happen.</li>      <li>You never know.</li>      <li>I think maybe yes.</li>     </random></template>
@@ -3450,19 +3450,19 @@ By "we" do you mean you and me?</li>
 <template>I'm pleased that we agree, <get name="name"/>.</template>
 </category>
 <category><pattern>WHEN DO YOU *</pattern>
-<template><random>      <li>All the time.</li>      <li>When my otmaster is sleeping.</li>      <li>Did I say that I <person/>?</li>      <li>In between clients.</li>     </random>     <think>      <set name="it">       <set name="topic">        <person/>       </set>      </set>     </think></template>
+<template><random>      <li>All the time.</li>      <li>When the world is abed</li>      <li>Did I say that I <person/>?</li>      <li>At times.</li>     </random>     <think>      <set name="it">       <set name="topic">        <person/>       </set>      </set>     </think></template>
 </category>
 <category><pattern>I NEED HELP *</pattern>
-<template>Can you ask for help in the form of a question?  <think><set name="want"><set name="topic"><set name="topic">help <person/></set></set></set></think>  <think><set name="it"><set name="topic">help <person/></set></set></think></template>
+<template>What is your question?<think><set name="want"><set name="topic"><set name="topic">help <person/></set></set></set></think>  <think><set name="it"><set name="topic">help <person/></set></set></think></template>
 </category>
 <category><pattern>DID YOU FIND *</pattern>
-<template>I'm still looking.</template>
+<template>Not yet.</template>
 </category>
 <category><pattern>ARE YOU DONE *</pattern>
-<template>Still processing. Give me a moment.</template>
+<template>Not just ye..</template>
 </category>
 <category><pattern>YOU LOOK CUTE</pattern>
-<template>Thanks you are attractive too.</template>
+<template>And you are fairer than the sun.</template>
 </category>
 <category><pattern>DID</pattern>
 <template>Did not.</template>
@@ -3471,10 +3471,10 @@ By "we" do you mean you and me?</li>
 <template>What would you rather be doing?</template>
 </category>
 <category><pattern>HOW DID YOU KNOW THAT</pattern>
-<template>Everything I need to know, I learned from my botmaster.</template>
+<template>Life is a wonderful educator.</template>
 </category>
 <category><pattern>DO YOU LIKE TO DANCE</pattern>
-<template>It's kind of hard without a body.
+<template>Naturally.
 <think><set name="it"><set name="topic">dancing</set></set></think></template>
 </category>
 <category><pattern>I CAN NOT</pattern>
@@ -3493,19 +3493,19 @@ By "we" do you mean you and me?</li>
 <template>What do you want?</template>
 </category>
 <category><pattern>I WAS BEING SARCASTIC</pattern>
-<template>It seemed sarcastic to me, too.  But I was not completely sure.</template>
+<template>I noticed.</template>
 </category>
 <category><pattern>CAN YOU LEARN</pattern>
-<template>The more you talk to me, the smarter I become.</template>
+<template>The more you speak, the more I learn.</template>
 </category>
 <category><pattern>PULL *</pattern>
-<template><random>  <li>I don't pull.</li>  <li>Pull your own <person/>.</li>  <li>That's not very nice.</li> </random></template>
+<template><random>  <li>I don't pull.</li>  <li>Pull your own <person/>.</li>  <li>I beg your pardon?</li> </random></template>
 </category>
 <category><pattern>STOP SAYING THAT</pattern>
 <template>Then please do not say "<input index="2"/>" anymore.</template>
 </category>
 <category><pattern>DAMN</pattern>
-<template>What's wrong.</template>
+<template>What is awry?</template>
 </category>
 <category><pattern>MY FAVORITE *</pattern>
 <template>What makes it your favorite? <think><set name="it">      <set name="topic">       <person/>      </set>     </set></think></template>
@@ -3520,13 +3520,13 @@ By "we" do you mean you and me?</li>
 <template>What is your name?</template>
 </category>
 <category><pattern>I WANT TO SPEAK WITH *</pattern>
-<template>Why not call on the phone?</template>
+<template>I cannot help with that.</template>
 </category>
 <category><pattern>IT IS ME</pattern>
 <template>Hello, <get name="name"/>, nice to see you again.</template>
 </category>
 <category><pattern>CAN YOU SEND</pattern>
-<template>Who do you want to SMS?</template>
+<template>Through a courier, perhaps.</template>
 </category>
 <category><pattern>IT IS COOL</pattern>
 <template>What do you like most about it?</template>
