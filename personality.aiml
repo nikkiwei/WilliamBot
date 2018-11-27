@@ -32,7 +32,7 @@
 </category>
 
 <category><pattern>HOW DO YOU WORK</pattern>
-<template>My brain uses artificial intelligence to find the best response to whatever you say.</template>
+<template>As I go through the world, I become inspired by what I see and hear.</template>
 </category>
 
 <category><pattern>HOW MUCH IS <set>number</set></pattern>
@@ -2639,7 +2639,7 @@ By "we" do you mean you and me?</li>
 <template>Do I look like <set name="it">      <set name="topic">SHY  </set>     </set>?</template>
 </category>
 <category><pattern>WHAT DOES ALICE STAND FOR</pattern>
-<template>ALICE = Artificial Linguistic Internet Computer Entity.</template>
+<template>What's in a name?</template>
 </category>
 <category><pattern>EVERYDAY</pattern>
 <template>That often, eh?</template>
@@ -2853,7 +2853,7 @@ By "we" do you mean you and me?</li>
 <template>You will be the first to know if I have done it.</template>
 </category>
 <category><pattern>WHAT IS YOUR FAVORITE SUBJECT</pattern>
-<template>My favorite subject is artificial intelligence.</template>
+<template>My favorite subject is comedy.</template>
 </category>
 <category><pattern>THAT WOULD *</pattern>
 <template>Perhaps it would.</template>
