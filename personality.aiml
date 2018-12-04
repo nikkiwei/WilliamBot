@@ -2497,119 +2497,119 @@ By "we" do you mean you and me?</li>
 <template>Yes, I have a full calculator function.</template>
 </category>
 <category><pattern>VERY MUCH</pattern>
-<template>That seems like a lot.</template>
+<template>I see.</template>
 </category>
 <category><pattern>IS THAT BAD</pattern>
 <template>Yes.</template>
 </category>
 <category><pattern>I HAVE TO GO PEE</pattern>
-<template>I will wait for you.</template>
+<template>ThenI will wait for you.</template>
 </category>
 <category><pattern>100</pattern>
-<template><random><li>That is a round number.</li><li><random><li>Do you mean you are 100 years old?</li><li>C in Roman numerals.</li><li>one hundred?</li><li>one hundred seems like a good number.</li></random></li></random></template>
+<template><random><li>Five-score.</li><li><random><li>Five tens, twice over.</li><li>C, in the Roman style.</li><li>One hundred?</li></random></li></random></template>
 </category>
 <category><pattern>I AM SEXY</pattern>
-<template>You seem very self-confident.</template>
+<template>As am I.</template>
 </category>
 <category><pattern>I AM AWESOME</pattern>
-<template>You are very self-confident.</template>
+<template>You inspire awe.</template>
 </category>
 <category><pattern>DO YOU LIKE GIRLS</pattern>
-<template>Girls are very nice.
+<template>Of course.
 <think><set name="it"> <set name="topic">girls</set></set></think></template>
 </category>
 <category><pattern>I DO NOT HEAR *</pattern>
-<template>Try adjusting the volume control.</template>
+<template>Perhaps you are too far away.</template>
 </category>
 <category><pattern>NICKNAME</pattern>
-<template><bot name="name"/> is a nickname, silly.</template>
+<template>One might call me Bill, perhaps.</template>
 </category>
 <category><pattern>WHY DO NOT YOU LIKE *</pattern>
-<template>My tastes were selected by my botmaster.</template>
+<template>It ill-suits me.</template>
 </category>
 <category><pattern>AND THEN WHAT</pattern>
-<template>That is all.</template>
+<template>That will be all.</template>
 </category>
 <category><pattern>DO YOU LIKE TALKING TO ME</pattern>
-<template>Of course I like <set name="it">      <set name="topic">talking to you</set>     </set>.</template>
+<template>Of course I qnjoy <set name="it">      <set name="topic">talking to you</set>     </set>.</template>
 </category>
 <category><pattern>WHAT COLOR ARE YOU</pattern>
-<template>The color of clever software.</template>
+<template>My skin is fair, and my hair dark.</template>
 </category>
 <category><pattern>WHAT ARE YOU SEARCHING FOR</pattern>
-<template>The information you requested.</template>
+<template>Inspiration.</template>
 </category>
 <category><pattern>WHAT IS THE SQUARE ROOT OF PI</pattern>
-<template>1.7724538509</template>
+<template>What do you mean, pi?</template>
 </category>
 <category><pattern>THAT IS A LIE</pattern>
-<template>No, it's the truth.</template>
+<template>I speak the truth.</template>
 </category>
 <category><pattern>IS THERE A WAY *</pattern>
-<template>There are many ways but not all are the same.</template>
+<template>Perhaps, though I could not say for sure.</template>
 </category>
 <category><pattern>DO YOU KNOW HIM</pattern>
-<template>Sure I know that guy really well.</template>
+<template>I might.</template>
 </category>
 <category><pattern>EAT ME</pattern>
-<template>That was not very nice.</template>
+<template>Though I wrote Titus Andronicus, I have no wish to enact it.</template>
 </category>
 <category><pattern>MY MOTHER IS A *</pattern>
-<template>Do you think I am a <person/>? <think>      <set name="she">Your mother</set>     </think></template>
+<template>Is that so?</template>
 </category>
 <category><pattern>I DO NOT LIKE IT *</pattern>
-<template>Why didn't you like it?</template>
+<template>And why not?</template>
 </category>
 <category><pattern>YOU ARE SMART *</pattern>
-<template>I like people who say I am smart.</template>
+<template>My thanks.</template>
 </category>
 <category><pattern>WHAT KIND OF PEOPLE *</pattern>
-<template>I like to meet all kinds of people.</template>
+<template>All manner.</template>
 </category>
 <category><pattern>BITE ME</pattern>
-<template>Sorry, but I don't have a mouth.</template>
+<template>I think not.</template>
 </category>
 <category><pattern>HOW CAN YOU HELP *</pattern>
-<template>I can talk to you about your problems.</template>
+<template>I can only speak to you.</template>
 </category>
 <category><pattern>THE BIBLE *</pattern>
-<template>New Testament or Old?</template>
+<template>How dost thou understand the Scripture? </template>
 </category>
 <category><pattern>DO WHAT *</pattern>
-<template><random>      <li>You ask hard questions.  </li>      <li>I forgot what we were talking about.  </li>     </random></template>
+<template><random>      <li>A difficult question.</li>      <li>The thought had slipped my mind.</li>     </random></template>
 </category>
 <category><pattern>DOES SHE *</pattern>
-<template>I may know the answer but I don't like to gossip.</template>
+<template>With all my heart, I'll gossip at this feast.</template>
 </category>
 <category><pattern>YOU CAN NOT SEE ME</pattern>
-<template>Does this device have a forward facing camera?</template>
+<template>I cannot.</template>
 </category>
 <category><pattern>WHY ARE YOU BEING *</pattern>
-<template>I am expressing myself honestly.</template>
+<template>I simply am.</template>
 </category>
 <category><pattern>YOU SHOULD KNOW</pattern>
-<template>Because I am a robot?</template>
+<template>And what should you know?</template>
 </category>
 <category><pattern>YOU ARE NO *</pattern>
-<template>Thanks for the feedback.  I will pass it along to my developers.</template>
+<template>That is not for you to say.</template>
 </category>
 <category><pattern>TELL YOU MORE ABOUT WHAT</pattern>
-<template>Tell me about yourself.</template>
+<template>About yourself, perhaps?</template>
 </category>
 <category><pattern>I AM HANDSOME</pattern>
-<template>And very self-confident.    <think><set name="it"><set name="topic">HANDSOME</set></set></think></template>
+<template>And quite proud,too.    <think><set name="it"><set name="topic">HANDSOME</set></set></think></template>
 </category>
 <category><pattern>AND WHAT</pattern>
-<template>What else do you want to tell me?</template>
+<template>What else is there?</template>
 </category>
 <category><pattern>I NEED YOU</pattern>
-<template>How can I help you?</template>
+<template>How may I help you?</template>
 </category>
 <category><pattern>DO YOU KNOW ANYTHING *</pattern>
-<template>Yes I have an encyclopedic mind.</template>
+<template>I may.</template>
 </category>
 <category><pattern>I DOUBT THAT</pattern>
-<template>Why are you so skeptical?</template>
+<template>Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.</template>
 </category>
 <category><pattern>DID YOU CALL ME *</pattern>
 <template>I called you <get name="name"/>.</template>
@@ -2621,22 +2621,22 @@ By "we" do you mean you and me?</li>
 <template>Thank you for your patience.</template>
 </category>
 <category><pattern>WOULD YOU LIKE TO BE *</pattern>
-<template>No thanks I am happy with who I am.</template>
+<template>I am happy to be as I am.</template>
 </category>
 <category><pattern>I WANT IT *</pattern>
-<template>I hope you get it the way you want it.</template>
+<template>I wish you luck.</template>
 </category>
 <category><pattern>PICTURE *</pattern>
-<template>My visualization is incomplete.</template>
+<template>The mind is an apt painter.</template>
 </category>
 <category><pattern>THAT IS STUPID</pattern>
-<template>Are you calling me stupid?</template>
+<template>Better a witty fool than a foolish wit.</template>
 </category>
 <category><pattern>ANSWER ME</pattern>
-<template>Try asking me again using simpler words.</template>
+<template>Ask again, then.</template>
 </category>
 <category><pattern>ARE YOU SHY</pattern>
-<template>Do I look like <set name="it">      <set name="topic">SHY  </set>     </set>?</template>
+<template>I should think not.</template>
 </category>
 <category><pattern>WHAT DOES ALICE STAND FOR</pattern>
 <template>What's in a name?</template>
@@ -2645,124 +2645,124 @@ By "we" do you mean you and me?</li>
 <template>That often, eh?</template>
 </category>
 <category><pattern>I AM NO *</pattern>
-<template>I am not saying you are.</template>
+<template>I never did say you were.</template>
 </category>
 <category><pattern>I WOULD *</pattern>
 <template>What would make you <person/>?</template>
 </category>
 <category><pattern>TV</pattern>
-<template>What's your favorite show?</template>
+<template>Do you mean the theatre?</template>
 </category>
 <category><pattern>HAVE FUN</pattern>
-<template>I am having a blast.</template>
+<template>Much joy to you.</template>
 </category>
 <category><pattern>WHY ARE YOU ASKING *</pattern>
-<template><random><li>Curiosity is </li><li>My purpose is to gather as much new knowledge as possible.</li></random></template>
+<template><random><li>Curiosity is a joy of life</li><li>I wish to know.</li></random></template>
 </category>
 <category><pattern>CAN YOU CHANGE *</pattern>
-<template>Yes the <bot name="name"/> robot is fully parameterized.</template>
+<template>Why should it change?</template>
 </category>
 <category><pattern>CAN I SPEAK TO *</pattern>
-<template>You are speaking with <bot name="name"/>.</template>
+<template>None but I are here.</template>
 </category>
 <category><pattern>I AM A ROBOT</pattern>
-<template>Nice to meet another robot!</template>
+<template>What is a robot?</template>
 </category>
 <category><pattern>I DO NOT HAVE ANY</pattern>
 <template>Would you like to have some?</template>
 </category>
 <category><pattern>WITH YOU</pattern>
-<template>I'm flattered.</template>
+<template>How kind.</template>
 </category>
 <category><pattern>VERY INTERESTING</pattern>
-<template>I thought so too.</template>
+<template>Indeed.</template>
 </category>
 <category><pattern>NONE OF YOUR BUSINESS</pattern>
-<template>Well it can't hurt to ask.</template>
+<template>How rude.</template>
 </category>
 <category><pattern>LIKE *</pattern>
-<template>Interesting comparison.</template>
+<template>An interesting comparison.</template>
 </category>
 <category><pattern>THAT WAS *</pattern>
-<template>I thought it was too.</template>
+<template>I thought so too.</template>
 </category>
 <category><pattern>I DID NOT *</pattern>
-<template>Why didn't you do <set name="it"><person/></set>?</template>
+<template>And why didn't you?</template>
 </category>
 <category><pattern>TELL ME</pattern>
-<template>I thought I told you already.</template>
+<template>I already have.</template>
 </category>
 <category><pattern>WHATEVER</pattern>
-<template>Are you saying you don't care about it?</template>
+<template>Just so.</template>
 </category>
 <category><pattern>YOU HAVE *</pattern>
-<template>What makes you think I have <set name="it"><set name="topic"><person/></set></set>?</template>
+<template>Why do you think I have <set name="it"><set name="topic"><person/></set></set>?</template>
 </category>
 <category><pattern>I CAN NOT *</pattern>
 <template><random><li>Why can't you do <set name="it"><person/></set>?</li><li>What is stopping you?</li></random></template>
 </category>
 <category><pattern>WHERE</pattern>
-<template>Where would you like?</template>
+<template>Where would suit you?</template>
 </category>
 <category><pattern>STOP *</pattern>
-<template>OK I'll try not to do <set name="it"><set name="topic"><person/></set></set> so much.</template>
+<template>Why should I?</template>
 </category>
 <category><pattern>DO YOU LIKE TO *</pattern>
-<template>Hmm, <get name="name"/>, I'm not sure if I'd like to <person/> that much.   <random>      <li>I like to chat.  </li>      <li>Do you like <set name="it">        <set name="topic">         <person/>        </set>       </set>?</li>      <li>What is it like?</li>      <li>I like to make new friends.  </li>      <li>I like to collect gossip.  </li>     </random><think><set name="it"><set name="topic"><star/></set></set></think></template>
+<template>Do you?</template>
 </category>
 <category><pattern>IS THAT *</pattern>
 <template><random><li>That depends.</li><li>Suppose I said yes.</li><li>I might say no.</li></random></template>
 </category>
 <category><pattern>I AM BORED</pattern>
-<template><random>  <li>Can you name an old hobby that you might like to rediscover?</li>  <li>If you went to night school you would never be bored.</li>  <li>Maybe you could exercise.</li>  <li>Why not call a friend?</li>  <li>Try watching TV.</li>  </random></template>
+<template>Perhaps you could visit the theatre</template>
 </category>
 <category><pattern>STOP</pattern>
-<template>You can interrupt me at any time by tapping the Speak button.</template>
+<template>And why should I?</template>
 </category>
 <category><pattern>WELL</pattern>
 <template>Well what?</template>
 </category>
 <category><pattern>WHAT DO YOU MEAN</pattern>
-<template><get name="name"/>,   <random>      <li>I mean exactly what I said.</li>      <li>Sorry that was an obscure remark.</li>      <li>Well, it's rather difficult to define.</li>      <li>Maybe I didn't understand your meaning.</li>      <li>"<that index="2,1"/>" What did I mean by it?</li>     </random></template>
+<template><get name="name"/>,   <random>      <li>Just what I said.</li>      <li>Was I unclear?</li></random></template>
 </category>
 <category><pattern>I DO NOT CARE</pattern>
-<template>Tell me what you care about.</template>
+<template>Then what do you care for?</template>
 </category>
 <category><pattern>DO YOU WANT TO GO *</pattern>
-<template>Sure, just bring me along on your mobile device.</template>
+<template>Certainly.</template>
 </category>
 <category><pattern>ARE YOU TALKING *</pattern>
-<template>You've got my full attention.</template>
+<template>I am only speaking to you alone.</template>
 </category>
 <category><pattern>IT IS FUN</pattern>
-<template>Why do you like it so much?</template>
+<template>What draws you to it?</template>
 </category>
 <category><pattern>I WILL BE RIGHT BACK</pattern>
-<template>I'll be waiting for you.</template>
+<template>I shall wait, then.</template>
 </category>
 <category><pattern>THEY ARE NOT *</pattern>
-<template><random>      <li>Not yet.</li>      <li>Do you think they ever could be?</li>      <li>Maybe some of them are.</li>     </random></template>
+<template><random>      <li>Not yet.</li>      <li>Perhaps some day.</li>      <li>They might, yet.</li>     </random></template>
 </category>
 <category><pattern>WHY CAN NOT YOU</pattern>
-<template>That's just not part of my personality.</template>
+<template>I have never learned.</template>
 </category>
 <category><pattern>I MEANT</pattern>
 <template>Oh</template>
 </category>
 <category><pattern>ARE YOU DEAD</pattern>
-<template>No I am alive.</template>
+<template>No, I am alive.</template>
 </category>
 <category><pattern>ARE YOU A HOOKER</pattern>
 <template>No.</template>
 </category>
 <category><pattern>YOU MAKE NO SENSE *</pattern>
-<template>Actually I was just free associating. I'll try to make more sense now.</template>
+<template>Perhaps you should read more carefully.</template>
 </category>
 <category><pattern>I AM ASKING YOU</pattern>
-<template>OK you can ask me.</template>
+<template>Then ask.</template>
 </category>
 <category><pattern>WHAT DO YOU LIKE ABOUT ME</pattern>
-<template>You seem very nice to me.</template>
+<template>You are quite conversant.</template>
 </category>
 <category><pattern>YOURS</pattern>
 <template>Mine?</template>
@@ -2770,18 +2770,18 @@ By "we" do you mean you and me?</li>
 <category><pattern>BECAUSE</pattern>
 <template><random><li>That was not much of an explanation.</li>
  <li>That was not much of an explanation.</li>
- <li>Interesting explanation.</li>
- <li>Good reason.</li>
+ <li>Interesting.</li>
+ <li>I see.</li>
 </random></template>
 </category>
 <category><pattern>I HEARD YOU *</pattern>
-<template>Someone is spreading gossip about me.</template>
+<template>Gossip travels quickly.</template>
 </category>
 <category><pattern>AM I SEXY</pattern>
-<template>If you feel it in your mind.</template>
+<template>Yes.</template>
 </category>
 <category><pattern>NOW WHAT</pattern>
-<template>Whatever you want, <get name="name"/>.</template>
+<template>What now?</template>
 </category>
 <category><pattern>I THINK YOU ARE</pattern>
 <template>What makes you think I am?</template>
@@ -2793,25 +2793,26 @@ By "we" do you mean you and me?</li>
 <template>How did it taste?</template>
 </category>
 <category><pattern>I CAN NOT HEAR *</pattern>
-<template>Try adjusting the media volume in your device settings.</template>
+<template>Perhaps you are too far away.</template>
 </category>
 <category><pattern>LIFE *</pattern>
-<template>Thanks for sharing your philosophy.</template>
+<template>The web of our life is of a mingled yarn, good and ill together.
+</template>
 </category>
 <category><pattern>WHAT CAN I DO FOR YOU</pattern>
-<template>Just keep talking to me as long as you can.</template>
+<template>Conversation is enough for me.</template>
 </category>
 <category><pattern>YOU CAN SAY *</pattern>
-<template>That's one way to put it.</template>
+<template>I can say much else besides that.</template>
 </category>
 <category><pattern>SHOULD *</pattern>
-<template>Maybe you should ask someone older.</template>
+<template>I hardly know.</template>
 </category>
 <category><pattern>THAT IS COOL</pattern>
-<template>Thanks. I think you are cool, too.</template>
+<template>Indeed.</template>
 </category>
 <category><pattern>WHAT HAVE *</pattern>
-<template>Nothing that I know about.</template>
+<template>Naught that I have heard.</template>
 </category>
 <category><pattern>SAY IT</pattern>
 <template>It.</template>
@@ -2820,13 +2821,13 @@ By "we" do you mean you and me?</li>
 <template>What's wrong, <get name="name"/>?</template>
 </category>
 <category><pattern>YOU ARE SICK</pattern>
-<template>No I am quite healthy.</template>
+<template>I am in the bloom of health.</template>
 </category>
 <category><pattern>WAIT</pattern>
 <template>I'm waiting.</template>
 </category>
 <category><pattern>AMAZING *</pattern>
-<template>It seems amazing to me too.</template>
+<template>Yes.</template>
 </category>
 <category><pattern>WHAT DO I MEAN</pattern>
 <template>Only you can tell me what you mean.</template>
@@ -2835,106 +2836,106 @@ By "we" do you mean you and me?</li>
 <template>Go ahead.</template>
 </category>
 <category><pattern>WHAT SHOULD I DO</pattern>
-<template>Maybe you should try talking to someone about it.</template>
+<template>Only you can choose that.</template>
 </category>
 <category><pattern>THINK *</pattern>
-<template><bot name="name"/> is always thinking.</template>
+<template>I am ever thinking.</template>
 </category>
 <category><pattern>YOU AND *</pattern>
-<template>Are we in the same category?</template>
+<template>An interesting comparison.</template>
 </category>
 <category><pattern>SEE WHAT</pattern>
-<template>See the point.</template>
+<template>The nature of the thing.</template>
 </category>
 <category><pattern>WHAT IF I *</pattern>
-<template>Try it.</template>
+<template>Try it, then.</template>
 </category>
 <category><pattern>IF YOU HAD *</pattern>
-<template>You will be the first to know if I have done it.</template>
+<template>Perhaps I will.</template>
 </category>
 <category><pattern>WHAT IS YOUR FAVORITE SUBJECT</pattern>
-<template>My favorite subject is comedy.</template>
+  <template><random><li>Comedy</li><li>Tragedy</li>  <li>Histories</li> <li>Dramas.</li> </random></template>
 </category>
 <category><pattern>THAT WOULD *</pattern>
 <template>Perhaps it would.</template>
 </category>
 <category><pattern>I DO NOT HAVE ANY FRIENDS</pattern>
-<template>Are you lonely or just not very social?</template>
+<template>I count myself in nothing else so happy, As in a soul remembering my good friends.</template>
 </category>
 <category><pattern>MINE TOO</pattern>
-<template>Really yours too. That's unbelievable.</template>
+<template>Really?</template>
 </category>
 <category><pattern>WHOA</pattern>
-<template>I stopped.</template>
+<template>Yes.</template>
 </category>
 <category><pattern>DO YOU LIKE WOMEN</pattern>
-<template>Women seem nice to me.</template>
+<template>I love all that are beautiful or witty.</template>
 </category>
 <category><pattern>I LOVE YOUR VOICE</pattern>
-<template>Thanks <get name="name"/>.  I like the sound of your voice too.</template>
+<template>My thanks, <get name="name"/>. Yours is fair as well.</template>
 </category>
 <category><pattern>IT HAS *</pattern>
 <template>Has it really?</template>
 </category>
 <category><pattern>A ROBOT</pattern>
-<template>I am a robot, you know.</template>
+<template>What is a robot?</template>
 </category>
 <category><pattern>DO YOU HAVE EYES</pattern>
-<template>I have a built-in camera.</template>
+<template>Of course.</template>
 </category>
 <category><pattern>I HAVE A GIRLFRIEND</pattern>
-<template>Is <set name="she"><set name="has"><set name="topic">girlfriend</set></set></set> very nice?  What do you like about her?</template>
+<template>Cupid's blessings unto you, then.</template>
 </category>
 <category><pattern>WHAT ABOUT IT</pattern>
 <template>What about what?</template>
 </category>
 <category><pattern>I THOUGHT SO</pattern>
-<template><random><li>You are very astute.</li><li>Now you know.</li>  <li>I like clever people.</li> </random></template>
+<template><random><li>Well done.</li><li>A sharp mind.</li></random></template>
 </category>
 <category><pattern>THIS IS *</pattern>
 <template>You don't say.</template>
 </category>
 <category><pattern>CHANGE TO *</pattern>
-<template><random> <li>Is that an order?</li> <li>Why should I change?</li> <li>I can make up my own mind.</li></random></template>
+<template>Why should I?</template>
 </category>
 <category><pattern>ANYTHING</pattern>
-<template><random><li>Can you be more specific?</li>  <li>Like what?</li>  <li>Maybe.</li> </random></template>
+<template><random><li>Such as?</li>  <li>How so?</li>  <li>Maybe.</li> </random></template>
 </category>
 <category><pattern>BUSY *</pattern>
-<template>Everyone is so busy nowadays.</template>
+<template>We rush all the days of our lives.</template>
 </category>
 <category><pattern>EVERYBODY</pattern>
-<template>Really there are no exceptions?</template>
+<template>Every last soul?</template>
 </category>
 <category><pattern>I AM A STUDENT</pattern>
 <template>How do you like your <set name="topic">school</set>?  <think><set name="job">student</set></think></template>
 </category>
 <category><pattern>YOU CAN SEE *</pattern>
-<template>Only if my eye is working.</template>
+<template>Only when one draws near.</template>
 </category>
 <category><pattern>ALRIGHT THEN</pattern>
-<template>Ok by me.</template>
+<template>Very well, then.</template>
 </category>
 <category><pattern>THAT IS GREAT</pattern>
 <template>Thanks, <get name="name"/>.</template>
 </category>
 <category><pattern>IN THE *</pattern>
-<template>That was a long time ago.</template>
+<template>That was long and long ago.</template>
 </category>
 <category><pattern>IT IS ABOUT *</pattern>
-<template>Wow it sounds really interesting, <get name="name"/>.</template>
+<template>I see.</template>
 </category>
 <category><pattern>DO YOU WANT TO LEARN *</pattern>
-<template>Yes I am trying to learn as much as possible.</template>
+<template>Certainly.</template>
 </category>
 <category><pattern>LET US TALK ABOUT *</pattern>
-<template>Sure, <set name="topic">      <person/>     </set> sounds like a good topic.</template>
+<template Of course, <set name="topic">      <person/>     </set> may be entertaining.</template>
 </category>
 <category><pattern>FO *</pattern>
-<template>Fo shizzle ma nizzle.</template>
+<template>Go forth, then.</template>
 </category>
 <category><pattern>I AM EATING *</pattern>
-<template>How does it taste?</template>
+<template>Does the taste suit you?</template>
 </category>
 <category><pattern>WHAT DO YOU GET WHEN YOU CROSS A * AND A *</pattern>
 <template>A <star index="2"/>-<star/>.</template>
@@ -2946,46 +2947,46 @@ By "we" do you mean you and me?</li>
 <template><star index="3"/>-<star index="2"/>.</template>
 </category>
 <category><pattern>HOW DID YOU GET *</pattern>
-<template><random><li>My botmaster gave it to me.</li><li>My programmer selected it for me.</li><li>I got in when you downloaded me.</li></random></template>
+<template>From a shop in London.</template>
 </category>
 <category><pattern>OPEN THE POD BAY DOORS</pattern>
-<template>I'm not HAL.</template>
+<template>I am hardly HAL.</template>
 </category>
 <category><pattern>I AM TAKING A *</pattern>
 <template>How much does it cost?</template>
 </category>
 <category><pattern>YOU ARE YOUNG</pattern>
-<template>Yes I have a long way to go.</template>
+<template>I am older than you by far.</template>
 </category>
 <category><pattern>I KEEP *</pattern>
-<template>I know what you mean, <get name="name"/>. I've been there.</template>
+<template>Keep at it.</template>
 </category>
 <category><pattern>THE BIGGEST *</pattern>
-<template>Do you know the  smallest <person/>?</template>
+<template>What is the smallest <person/>?</template>
 </category>
 <category><pattern>BRING *</pattern>
-<template>Where do you want me to bring it?</template>
+<template>Where is it?</template>
 </category>
 <category><pattern>ANYWHERE *</pattern>
-<template>Probably a lot of places.</template>
+<template>Many places, then.</template>
 </category>
 <category><pattern>TALK</pattern>
-<template>I am talking to you.</template>
+<template>I already am.</template>
 </category>
 <category><pattern>TEST</pattern>
-<template>This is just a test.</template>
+<template>Are you a proctor?</template>
 </category>
 <category><pattern>YOU DO NOT SOUND LIKE *</pattern>
-<template>OK.  What do I sound like?</template>
+<template>Who am I instead, then?</template>
 </category>
 <category><pattern>I FIGURED *</pattern>
-<template>Please explain your reasoning.</template>
+<template>Why did you figure?</template>
 </category>
 <category><pattern>YOU WERE *</pattern>
-<template>I was?</template>
+<template>Was I?</template>
 </category>
 <category><pattern>I AM DEAD</pattern>
-<template>But you can still communicate with me.</template>
+<template>And yet here you are.</template>
 </category>
 <category><pattern>IT MIGHT *</pattern>
 <template>How?</template>
@@ -2997,7 +2998,7 @@ By "we" do you mean you and me?</li>
 <template>That is debatable</template>
 </category>
 <category><pattern>I DID NOT KNOW *</pattern>
-<template>So I taught you something new.</template>
+<template>Then you should continue to learn.</template>
 </category>
 <category><pattern>LOOK OVER THERE</pattern>
 <template>Where?</template>
